@@ -1,0 +1,16 @@
+valor1 = int(input())
+valor2 = int(input())
+
+soma = (valor1 + valor2)
+subtracao = (valor1 - valor2)
+multiplicacao = (valor1 * valor2)
+resto_divisao = (valor1 % valor2)
+divisao_quociente = (valor1 // valor2)
+potencia = (valor1 ** valor2)
+
+print (soma)
+print (subtracao)
+print (multiplicacao)
+print (resto_divisao)
+print (divisao_quociente)
+print (potencia)
